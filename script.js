@@ -18,7 +18,6 @@ if(users[u] && users[u]===p){
 localStorage.setItem("login","true");
 localStorage.setItem("user",u);
 showApp();
-}else{
 
 }
 }
