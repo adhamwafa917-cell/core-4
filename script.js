@@ -19,7 +19,7 @@ localStorage.setItem("login","true");
 localStorage.setItem("user",u);
 showApp();
 }else{
-msg.innerText="❌ Invalid login";
+
 }
 }
 
